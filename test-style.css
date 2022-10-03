@@ -1,0 +1,15 @@
+.kitten div{
+    border:2px solid red;
+    flex:1;
+}
+main{
+    border:2px solid blue;
+    width:100%
+}
+div img{
+    width:100%;
+}
+section{
+    border:2px solid aquamarine;
+    display:flex;
+}
